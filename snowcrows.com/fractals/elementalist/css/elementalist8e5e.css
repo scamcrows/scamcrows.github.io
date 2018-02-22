@@ -1,0 +1,185 @@
+		/* >>>>> These settings will override basic style <<<<< */
+
+		/* Inactive tab color */
+
+.tabs a {
+background:#FF3232;
+}
+
+		/* Selected tab color */
+
+.tabs a.active {
+background: #B20000;
+}
+
+		/* Hover tab color */
+
+.tabs a:hover, .tabs a:focus, .tabs a:active {
+  background-color: #B20000;
+ }
+ 
+ 		/* Class banner */
+
+ .banner {  
+    background: url('Elementalist.png');
+    background-repeat: no-repeat;
+}
+
+a {
+color:#FF3232;
+text-decoration:none
+}
+.conten-title
+{
+border-bottom: 1px solid #B20000;
+padding-bottom:20px;
+margin-bottom:40px;
+}
+
+.infos {
+	border-top: 1px solid #B20000;
+	padding-top:15px
+}
+
+.rotation-title{
+   text-align: center;
+   font-weight: bold;
+}
+.rotation-note{
+   text-align: left;
+}
+.custom-counter {
+  margin: 0;
+  padding: 0px;
+  margin-left: 0px;
+  margin-top: 0px;
+  list-style-type: none;
+}
+
+.custom-counter li {
+  counter-increment: step-counter;
+  margin-bottom: 10px;
+}
+
+.custom-counter li::before {
+  content: counter(step-counter);
+  margin-right: 5px;
+  font-size: 15px;
+  background-color: #B20000;
+  color: white;
+  font-weight: bold;
+  padding: 3px 8px;
+  border-radius: 0px;
+  font-style: italic;
+}
+.custom-counter li::before {
+  content: counter(step-counter);
+  margin-right: 5px;
+  font-size: 15px;
+  background-color: #B20000;
+  color: white;
+  font-weight: bold;
+  padding: 3px 8px;
+  border-radius: 0px;
+  font-style: italic;
+}
+
+/* LINED TITLE */
+.line {
+  display: table;
+  white-space: nowrap;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.title {
+  color:#FF3232;
+  text-transform: uppercase;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  text-align:center;
+}
+.line:before,
+.line:after {
+  /* green 1px image repeated in browsers without linear-gradient */
+  background: url(data:image/gif;base64,R0lGODdhAQABAIgAAEqMMQAAACwAAAAAAQABAAACAkQBADs=) repeat-x center;
+  background: linear-gradient(to bottom, #B20000, #B20000) no-repeat center / 98% 1px;
+  content: '';
+  display: table-cell;
+  width: 50%;
+}
+
+.customers {
+    border-collapse: collapse;
+    width: 100%;
+    /*background-color:grey;*/
+
+}
+
+.customers td, #customers th {
+    padding: 10px;
+
+
+}
+#customers td, th {
+   
+    border: 1px solid #909090; /* COMMENT THIS IF YOU DONT WANT BOX*/
+    /*padding-top: 3px;
+    padding-bottom: 3px;*/
+    /*padding-left: 40px;*/
+    /*padding-right: 5px;*/
+    min-width:40px;
+    /*text-align:right;*/
+    text-decoration: none;
+    color:white;
+    
+}
+#customers td{
+   /*color:#FF3232;*/
+   padding-top: 5px;
+   padding-bottom: 3px;
+   padding-right: 5px;
+   padding-left: 5px;
+   text-align:center;
+}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: #bb5858;
+    color:white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size:25px;
+    /* font-style: italic; */
+}
+
+
+.heading{
+  position:relative;
+  padding:15px 0 5px;
+  text-align:center;
+  color:#fff;
+  text-transform:uppercase;
+  letter-spacing:2px;
+  font-size:1.80em;
+  overflow:hidden;
+}
+.heading:before,
+.heading:after{
+  content:"";
+  position:absolute;
+  height: 5px;
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  top:50%;
+  width:500px;
+}
+.heading:before {
+  right: 80%;
+  margin-right: 15px;
+}
+.heading:after {
+  left: 80%;
+  margin-left: 15px;
+}

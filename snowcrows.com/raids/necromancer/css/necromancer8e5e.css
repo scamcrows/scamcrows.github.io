@@ -1,0 +1,89 @@
+		/* >>>>> These settings will override basic style <<<<< */
+
+		/* Inactive tab color */
+
+.tabs a {
+background:#49a94e;
+}
+
+		/* Selected tab color */
+
+.tabs a.active {
+background: #0e6a15;
+}
+
+		/* Hover tab color */
+
+.tabs a:hover, .tabs a:focus, .tabs a:active {
+  background-color: #0e6a15;
+ }
+ 
+ 		/* Class banner */
+
+.banner {  
+    background: url('Necromancer.png');
+    background-repeat: no-repeat;
+}
+a {
+color:#159e20;
+text-decoration:none
+}
+.conten-title
+{
+border-bottom: 1px solid #0e6a15;
+padding-bottom:20px;
+margin-bottom:40px;
+}
+.infos {
+	border-top: 1px solid #0e6a15;
+	padding-top:15px
+}
+/* LINED TITLE */
+.line {
+  display: table;
+  white-space: nowrap;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.line:before,
+.line:after {
+  /* green 1px image repeated in browsers without linear-gradient */
+  background: url(data:image/gif;base64,R0lGODdhAQABAIgAAEqMMQAAACwAAAAAAQABAAACAkQBADs=) repeat-x center;
+  background: linear-gradient(to bottom, #0e6a15, #0e6a15) no-repeat center / 98% 1px;
+  content: '';
+  display: table-cell;
+  width: 50%;
+}
+
+.rotation-title{
+   text-align: center;
+   font-weight: bold;
+}
+.rotation-note{
+   text-align: left;
+}
+.custom-counter {
+  margin: 0;
+  padding: 0px;
+  margin-left: 0%;
+  margin-top: 0px;
+  list-style-type: none;
+}
+
+.custom-counter li {
+  counter-increment: step-counter;
+  margin-bottom: 10px;
+}
+
+.custom-counter li::before {
+  content: counter(step-counter);
+  margin-right: 5px;
+  font-size: 15px;
+  background-color: #0e6a15;
+  color: white;
+  font-weight: bold;
+  padding: 3px 8px;
+  border-radius: 0px;
+  font-style: italic;
+}

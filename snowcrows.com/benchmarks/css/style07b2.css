@@ -1,0 +1,347 @@
+/*background*/
+/*html {
+  overflow:   scroll;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
+}*/
+#footer {
+ position:relative;
+   bottom:0;
+   width:100%;
+   height:60px; 
+}
+
+.firstsection{
+  margin-bottom:2em;
+  height:450px;
+} 
+.footer-all {
+  width: 100%;
+  position: relative;
+  background-color: #1F1F1F; 
+  padding: 0rem;
+  text-align: center;
+  line-height: 1;
+  bottom: 0;
+}
+.footer-logo {
+width: 128px;
+height: 100px;
+position: absolute;
+margin-top: -8.5em;
+/*margin-bottom: -3em;*/
+background: url('../../assets/images/izE6pMV.png');  
+}
+.infos {
+	
+	padding-top:15px
+}
+html, body {
+    min-width: 1075px;
+}    
+
+body {
+width: calc(100vw - 34px);
+}
+/*remove line under link*/ 
+a.nounderline:link  
+{  
+ text-decoration:none!important;  
+}  
+    
+body {
+    font-family: 'Montserrat';
+    line-height: 1.0;
+    color: white;
+}
+
+
+* {
+  box-sizing: border-box;
+  }
+  
+.gw2a-items-embed{
+margin: 5px;
+}
+		
+.tab_content { 
+padding: 10px;
+
+}
+
+
+/* ________________________________TABS BOT START_________________________________________________ */
+.tabs li {	
+list-style:none;
+display: inline;
+text-decoration:none;
+
+}
+ 
+.tabs a {
+margin-left : 0.3em;
+margin:5px;
+display:inline-block;
+/*background:#9176A3;*/
+font-size:14px;
+font-weight:600;
+color:white;
+transition:all linear 0.15s;
+text-decoration:none;
+/*border: 1px solid black;*/
+width: 12em;
+    z-index: 999;
+}
+
+.tabs a.active {
+
+color: white;
+/*background: #9539C4;*/
+/*border: 1px solid black;*/
+margin:5px;
+top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: top, right, bottom, left;
+  transition-property: top, right, bottom, left;
+}
+
+.tabs a:hover{
+box-shadow: 0 0 10px rgb(255, 255, 255);
+color:black;
+}
+ 
+ 
+ 
+ 
+ 
+ .tabs a: {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  overflow: hidden;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: color, background-color;
+  transition-property: color, background-color;
+}
+.tabs a:hover, .tabs a:focus, .tabs a:active {
+/* background-color: #9539C4;*/
+ 
+}
+
+ 
+.tabs a{
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+}
+.tabs a:before {
+  content: '';
+  position: absolute;
+
+  
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: top, right, bottom, left;
+  transition-property: top, right, bottom, left;
+}
+.tabs a:hover:before, .tabs a:focus:before, .tabs a:active:before {
+  top: -8px;
+  right: -8px;
+  bottom: -8px;
+  left: -8px;
+}
+		
+/*_____________________________TABS BOT____________________________________/
+ 
+ 
+ /*second row of tabs*/
+
+
+
+ /* <_______________TABS END_______________> */
+.tab_content_content{
+box-shadow:6px 10px 12px rgba(0,0,0,0.3);
+background-color: #1f1f1f;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:100px;
+  margin-bottom:6em;
+  padding:20px 40px 30px 0px;
+color: white;
+opacity: 0.95;
+}
+/* THIS IS GUIDE */	
+.tab_content_content_content{
+box-shadow:6px 10px 12px rgba(0,0,0,0.3);
+background-color: #1f1f1f;
+white-space: nowrap;
+/*max-width: 80%;*/
+/*min-height:700px;
+width: 900px;*/
+
+/*border-left:1em solid transparent;
+border-right:1em solid transparent; */
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:auto;
+  margin-bottom:6em;
+color: white;
+opacity: 0.95;
+overflow:hidden;
+
+	}
+.tab_content_content_content_content{
+width: 8em;
+}	
+/* <_______________Article & Nav_______________> */
+aside {
+    /*float: left;
+    max-width: 50%;
+    /*margin-left: 15%;
+    padding: 2em;
+    overflow: hidden;*/ 
+      float: left;
+    padding-top: 2em;
+    padding-left: 2em;  
+    
+}
+
+.conten-title
+{
+text-align:center;
+padding-top:2em;
+
+
+    padding-bottom:1em;
+}
+
+
+
+article {
+/*
+    margin-left: 50%;
+    padding: 2em;*/
+    
+    margin-left: 44.0%;
+    padding-top: 2em;
+    /*height: 480px;*/
+    /* padding: 2em; */
+} 
+
+
+
+/*CLASS HEADER, TITLE AND ICON*/
+.banner {  
+    width: 700px;
+    height: 318px;
+    padding: 220px;
+    border: 1px solid transparent;
+    box-sizing: border-box;   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.4em;
+    margin-bottom: -3em;
+    font-weight: bold;
+    font-size: 500%;
+    color: white;
+    text-align: right;
+    background: url('Mesmer.html'); /*mesmer*/
+    background-repeat: no-repeat;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #262626;
+}
+
+/*    border: 1px solid transparent;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    margin-bottom: -3em;
+    font-weight: bold;
+    font-size: 500%;
+    color: white;
+    text-align: right;
+    background: url(./default banner.png);
+    background-repeat: no-repeat;
+    -webkit-text-stroke-width: 1px;
+
+
+.hvr-overline-reveal {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  position: relative;
+  overflow: hidden;
+}
+.hvr-overline-reveal:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 0;
+  top: 0;
+  background: #2098D1;
+  height: 4px;
+  -webkit-transform: translateY(-4px);
+  transform: translateY(-4px);
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}*/
+
+.customers {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+.customers td, #customers th {
+    padding: 10px;
+
+}
+#customers td, th {
+    border: 1px solid #3c3c3c; /* COMMENT THIS IF YOU DONT WANT BOX*/
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 0px;
+    padding-right: 5px;
+    min-width:220px;
+}
+
+
+.customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+
+    color: white;   
+
+}
+
+.set_up { 
+position:relative;
+top: 1cm;
+height:auto;
+}

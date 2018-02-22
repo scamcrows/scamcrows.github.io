@@ -1,0 +1,71 @@
+.banneryt {
+    width: 800px;
+    height: 278px;
+    padding: 0px;
+    border: 1px solid transparent;
+    box-sizing: border-box;   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -1em;
+    margin-bottom: -3em;
+
+    background: url('youtube_TXT2.png');
+
+    background-size: 800px 278px;
+    background-repeat: no-repeat;
+    /*-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #262626;*/
+}
+@media only screen and (max-width: 720px) {
+.banneryt {
+display:none!important;
+    width: 80%;
+   /* height: auto;*/
+    padding: 0px;
+    border: 1px solid transparent;
+    box-sizing: border-box;   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    margin-bottom: -2em;
+
+    background: url('youtube_TXT2.png');
+
+    background-size: 80% auto;
+    background-repeat: no-repeat;}
+}
+
+
+.bannerdis {
+    width: 800px;
+    height: 278px;
+    padding: 0px;
+    border: 1px solid transparent;
+    box-sizing: border-box;   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    margin-bottom: -2em;
+
+    background: url('discordTXT2.png');
+
+    background-size: 800px 278px;
+    background-repeat: no-repeat;
+    /*-webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #262626;*/
+}
+@media only screen and (max-width: 720px) {
+.bannerdis {display:none!important;
+}
+
+}
+html { 
+	background: url('../assets/background/background_grey_builds.jpg');   /*THIS IS THE BACKGROUND*/
+        background-color: #1F1F1F;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
