@@ -1,0 +1,50 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 22 Feb 2018 19:19:35 at https://scamcrows.github.io +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN100%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://scamcrows.github.io -O1 "C:\My Web Sites\snowcrows" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:20:07	Error: 	"Not Found" (404) at link https://scamcrows.github.io/index.html (from https://scamcrows.github.io/)
+19:21:04	Error: 	"Not Found" (404) at link https://scamcrows.github.io/benchmarks/assets/dropdown/css/style.css (from https://scamcrows.github.io/benchmarks/)
+19:21:04	Error: 	"Not Found" (404) at link https://scamcrows.github.io/benchmarks/assets/animate.css/animate.min.css (from https://scamcrows.github.io/benchmarks/)
+19:21:04	Error: 	"Not Found" (404) at link https://scamcrows.github.io/benchmarks/assets/theme/css/style.css (from https://scamcrows.github.io/benchmarks/)
+19:21:04	Error: 	"Not Found" (404) at link https://scamcrows.github.io/benchmarks/index.html (from https://scamcrows.github.io/benchmarks/)
+19:21:04	Error: 	"Not Found" (404) at link https://scamcrows.github.io/raids/elementalist/index.html (from https://scamcrows.github.io/raids/elementalist/)
+19:21:05	Error: 	"Not Found" (404) at link https://scamcrows.github.io/raids/mesmer/index.html (from https://scamcrows.github.io/raids/mesmer/)
+19:21:05	Error: 	"Not Found" (404) at link https://scamcrows.github.io/raids/necromancer/index.html (from https://scamcrows.github.io/raids/necromancer/)
+19:21:06	Error: 	"Not Found" (404) at link https://scamcrows.github.io/raids/ranger/index.html (from https://scamcrows.github.io/raids/ranger/)
+19:21:06	Error: 	"Not Found" (404) at link https://scamcrows.github.io/bencmarks (from https://scamcrows.github.io/raids/ranger/)
+19:21:06	Error: 	"Not Found" (404) at link https://scamcrows.github.io/raids/engineer/index.html (from https://scamcrows.github.io/raids/engineer/)
+19:21:06	Error: 	"Not Found" (404) at link https://scamcrows.github.io/raids/thief/index.html (from https://scamcrows.github.io/raids/thief/)
+19:21:06	Error: 	"Not Found" (404) at link https://scamcrows.github.io/raids/warrior/index.html (from https://scamcrows.github.io/raids/warrior/)
+19:21:06	Error: 	"Not Found" (404) at link https://scamcrows.github.io/gif/sc-daily-mathias-703-left-MDqc31 (from https://scamcrows.github.io/raids/warrior/)
+19:21:07	Error: 	"Not Found" (404) at link https://scamcrows.github.io/raids/guardian/index.html (from https://scamcrows.github.io/raids/guardian/)
+19:21:07	Error: 	"Not Found" (404) at link https://scamcrows.github.io/raids/revenant/index.html (from https://scamcrows.github.io/raids/revenant/)
+19:21:08	Error: 	"Not Found" (404) at link https://scamcrows.github.io/fractals/elementalist/index.html (from https://scamcrows.github.io/fractals/elementalist/)
+19:21:08	Error: 	"Not Found" (404) at link https://scamcrows.github.io/slaying/index.html (from https://scamcrows.github.io/slaying/)
+19:21:08	Error: 	"Forbidden" (403) at link https://scamcrows.github.io/news/header/header.css?=v87 (from https://scamcrows.github.io/newtoraids/)
+19:21:08	Error: 	"Forbidden" (403) at link https://scamcrows.github.io/news/header/header.js (from https://scamcrows.github.io/newtoraids/)
+19:21:11	Error: 	"Not Found" (404) at link https://scamcrows.github.io//stylesheet/mbr-additional.css?v=14 (from https://scamcrows.github.io/social/)
+19:21:11	Error: 	"Not Found" (404) at link https://scamcrows.github.io/social/assets/hover/css/hover_miku.css (from https://scamcrows.github.io/social/)
+19:21:23	Error: 	"Not Found" (404) at link https://scamcrows.github.io/recruitment/css/jquery-1.11.0.js (from https://scamcrows.github.io/recruitment/)
+19:21:23	Error: 	"Not Found" (404) at link https://scamcrows.github.io/recruitment/assets/dropdown/css/style.css (from https://scamcrows.github.io/recruitment/)
+19:21:23	Error: 	"Not Found" (404) at link https://scamcrows.github.io/recruitment/assets/animate.css/animate.min.css (from https://scamcrows.github.io/recruitment/)
+19:21:23	Error: 	"Not Found" (404) at link https://scamcrows.github.io/recruitment/assets/theme/css/style.css (from https://scamcrows.github.io/recruitment/)
+19:21:23	Error: 	"Not Found" (404) at link https://scamcrows.github.io/recruitment/index.html (from https://scamcrows.github.io/recruitment/)
+19:21:24	Error: 	"Not Found" (404) at link https://scamcrows.github.io/builds/assets/dropdown/css/style.css (from https://scamcrows.github.io/builds/)
+19:21:24	Error: 	"Not Found" (404) at link https://scamcrows.github.io/builds/assets/animate.css/animate.min.css (from https://scamcrows.github.io/builds/)
+19:21:24	Error: 	"Not Found" (404) at link https://scamcrows.github.io/builds/assets/theme/css/style.css (from https://scamcrows.github.io/builds/)
+19:21:24	Error: 	"Not Found" (404) at link https://scamcrows.github.io/builds/index.html (from https://scamcrows.github.io/builds/)
+19:21:24	Error: 	"Not Found" (404) at link https://scamcrows.github.io/benchmarks/css/Mesmer.png (from https://scamcrows.github.io/benchmarks/css/style.css?v=90)
+19:21:24	Error: 	"Not Found" (404) at link https://scamcrows.github.io/benchmarks/css/Elementalist.png (from https://scamcrows.github.io/benchmarks/css/hub.css?v=27)
+19:21:24	Error: 	"Service Temporarily Unavailable" (503) at link https://www.scamcrows.github.io/assets/WEAPONSWAP.png (from https://scamcrows.github.io/raids/guardian/css/guardian.css?v=10)
+19:21:24	Error: 	"Not Found" (404) at link https://scamcrows.github.io/slaying/css/compass/css3 (from https://scamcrows.github.io/slaying/css/table.css?v=2)
+19:21:24	Warning: 	File not parsed, looks like binary: https://scamcrows.github.io/assets/socicon/fonts/socicon.woff2
+19:21:49	Error: 	"Not Found" (404) at link https://scamcrows.github.io/builds/css/Elementalist.png (from https://scamcrows.github.io/builds/css/hub.css?v=27)
+19:25:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scamcrows.github.io/forum/search.php?sid=6970cc1f93a1f3b6ca4618cf9684ceaf (from https://scamcrows.github.io/forum/styles/ravaio/img/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/aaNBiA4.jpg)
+19:25:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://scamcrows.github.io/forum/faq.php?sid=6970cc1f93a1f3b6ca4618cf9684ceaf (from https://scamcrows.github.io/forum/styles/ravaio/img/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/styles/ravaio/theme/images/aaNBiA4.jpg)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 4 seconds : 1437 links scanned, 1398 files written (71483544 bytes overall) [31117319 bytes received at 64291 bytes/sec], 51924993 bytes transferred using HTTP compression in 1211 files, ratio 20%, 24.0 requests per connection
+(36 errors, 3 warnings, 0 messages)

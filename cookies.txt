@@ -1,9 +1,8 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-.snowcrows.com	TRUE	/	FALSE	1999999999	__cfduid	dc0b77c9800e93a2321749e0b3b966eb11519326327
-.makeagif.com	TRUE	/	FALSE	1999999999	__cfduid	d32ca420a3678c6c11e89eea85ecdda971519330111
-.jquery.org	TRUE	/	FALSE	1999999999	__cfduid	d61104eb913b498530a0942edc37f2aca1519330166
+.makeagif.com	TRUE	/	FALSE	1999999999	__cfduid	dd0f402f17143291b85bdd16d88cad06f1519341620
+.scamcrows.github.io	TRUE	/	FALSE	1999999999	__cfduid	dad2d3de02ecfd2aa8ebf5ce1afabe0951519341667
 .paypalobjects.com	TRUE	/	FALSE	1999999999	PYPF	CT-2
-.snowcrows.com	TRUE	/	FALSE	1999999999	snowcrows_forum_u	1
-.snowcrows.com	TRUE	/	FALSE	1999999999	snowcrows_forum_sid	960ae8b09b15d7ea443937c1ec2fe90b
+.scamcrows.github.io	TRUE	/	FALSE	1999999999	snowcrows_forum_u	1
+.scamcrows.github.io	TRUE	/	FALSE	1999999999	snowcrows_forum_sid	8ce6bbbf414e42be3ed53bc8c99f7c4d
 

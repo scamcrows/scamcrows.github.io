@@ -1,5 +1,5 @@
--qwC2%PnX0s2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F HTTrack/3.0x -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://snowcrows.com -O1 "F:\Sites\Scam Crows" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-File generated automatically on Thu, 22 Feb 2018 20:07:06, do NOT edit
+-qwC2%Ps2u1%s%uN100%I0p3DaK0H0%kf2A250000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://scamcrows.github.io -O1 "C:\My Web Sites\snowcrows" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+File generated automatically on Thu, 22 Feb 2018 19:19:35, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
