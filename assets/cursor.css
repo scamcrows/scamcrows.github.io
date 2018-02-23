@@ -1,0 +1,17 @@
+body, html {
+cursor: url("../3NlVJUK.png"), auto; /* This is basic Cursor */
+}
+a, label, .submit {
+cursor: url("../ErcBprb.png"), auto; /* This is (iirc) Cursor over links */
+}
+a:active {
+cursor: url("../ErcBprb.png"), auto; /* This is (too) Cursor over links */
+}
+p, h1, h2, h3, h4 { 
+cursor: url("../3NlVJUK.png"), auto; /* This is Cursor over text */
+}
+/* 
+RhGJHFy.png This is Hand (ugly)
+MjEgOAA.png This is Grey 
+ErcBprb.png This is Gold
+*/
